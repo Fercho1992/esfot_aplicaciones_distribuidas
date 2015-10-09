@@ -1,0 +1,60 @@
+Presentación
+
+Evaluación
+    Proyecto 40%
+    Examen 30%
+    Peerwise 20%
+    Consultas 10%
+
+Políticas:
+    No copia
+    Turnitin para consultas
+    Todos los deberes deben ser entregados para poder rendir el examen.
+
+Bibliografía
+    George F. Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair, "Distributed Systems: Concepts and Design", Addison-Wesley, 2012
+
+    Andrew S. Tanenbaum, Maarten van Steen, "Distributed Systems - Principles and Paradigms", Prentice Hall, 2007
+
+Repositorios Github
+    Añadirme como colaborador
+    No tildes, no espacio, todo minúsculas.
+    Estructura:
+        bimestre1
+            deberes
+                deber1 (#de la semana)
+                deber2
+                ···
+            proyecto
+            examen
+        bimestre2
+            deberes
+                deber1
+                deber2
+                ···
+            proyecto
+            examen
+
+Peerwise
+    Hacer 5 preguntas semanales
+    Responder 5 preguntas semanales
+
+
+¿Que es un sistema distribuido?
+    - Un conjunto de computadores independientes que el usuario ve como uno solo.
+
+    - Un sistema distribuido es un sistema que se cae cuando una máquina que ni sabias que existía deja de funcionar.
+
+
+Ejemplo de sistemas distribuidos?
+    La WWW
+    Sistema de geo posicionamiento
+    Google
+    Sistemas de control aereo
+
+Proyectos
+    Bimestre 1: Sincronización de archivos
+    Bimestre 2: CloudComputing, Hadoop, Big Data, MapReduce, ZooKeeper, 
+
+
+
